@@ -14,15 +14,15 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: zhuleichina
-weibo: zhuleichina
-github: zhuleichina
-instagram: zhuleichina
-linkedin: zhuleichina
+twitter: 
+weibo: 
+github: 
+instagram: 
+linkedin: 
 
 # avatar and Favicon
-avatar: https://github.com/zhuleichina/zhuleichina.github.io/blob/master/images/icon.jpg
-favicon: https://github.com/zhuleichina/zhuleichina.github.io/blob/master/images/icon.jpg
+avatar: 
+favicon: 
 
 # disqus config
 disqus:
@@ -30,8 +30,8 @@ disqus:
 
 # google analytics config
 ga:
-  id: UA-54767140-1
-  url: https://zhuleichina.github.io
+  id: 
+  url: 
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
