@@ -14,11 +14,11 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: 
-weibo: 
-github: 
-instagram: 
-linkedin: 
+twitter:
+weibo:
+github:
+instagram:
+linkedin:
 
 # avatar and Favicon
 avatar: 
@@ -26,7 +26,7 @@ favicon:
 
 # disqus config
 disqus:
-  shortname: suyan-zh
+  shortname: 
 
 # google analytics config
 ga:
