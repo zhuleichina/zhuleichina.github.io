@@ -21,8 +21,8 @@ instagram: zhuleichina
 linkedin: zhuleichina
 
 # avatar and Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+avatar: /images/ico.jpg
+favicon: /images/ico.jpg
 
 # disqus config
 disqus:
