@@ -21,8 +21,8 @@ instagram: zhuleichina
 linkedin: zhuleichina
 
 # avatar and Favicon
-avatar: /images/ico.jpg
-favicon: /images/ico.jpg
+avatar: https://github.com/zhuleichina/zhuleichina.github.io/blob/master/images/icon.jpg
+favicon: https://github.com/zhuleichina/zhuleichina.github.io/blob/master/images/icon.jpg
 
 # disqus config
 disqus:
