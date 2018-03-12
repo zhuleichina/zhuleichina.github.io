@@ -2,7 +2,7 @@
 layout: post
 title: docker实践--使用docker搭建FTP服务器
 category: docker
-tags: [docker FTP]
+tags: [docker]
 description:使用docker搭建FTP服务器
 ---
 

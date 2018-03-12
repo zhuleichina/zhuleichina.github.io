@@ -2,7 +2,7 @@
 layout: post
 title: docker实践--使用docker部署zabbix
 category: docker
-tags: [docker zabbix]
+tags: [docker]
 description:使用docker部署zabbix
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: docker实践--使用docker部署rails网站
 category: docker
-tags: [docker rails]
+tags: [docker]
 description:使用docker部署rails网站
 ---
 

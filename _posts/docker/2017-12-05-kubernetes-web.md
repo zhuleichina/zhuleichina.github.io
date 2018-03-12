@@ -2,7 +2,7 @@
 layout: post
 title: kubernetes实践-使用kubernets部署web应用
 category: docker
-tags: [docker kubernetes]
+tags: [docker]
 description:使用kubernets部署web应用
 ---
 

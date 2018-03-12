@@ -2,7 +2,7 @@
 layout: post
 title: 使用kubeadm部署kubernetes集群
 category: docker
-tags: [docker kubernetes集群]
+tags: [docker]
 description:使用kubeadm部署kubernetes集群
 ---
 
