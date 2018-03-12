@@ -3,7 +3,7 @@ layout: post
 title: docker实践--使用docker部署rails网站
 category: docker
 tags: [docker]
-description:使用docker部署rails网站
+description: 使用docker部署rails网站
 ---
 
 # docker实践--使用docker部署rails网站

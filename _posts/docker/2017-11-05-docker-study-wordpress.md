@@ -3,7 +3,7 @@ layout: post
 title: docker实践--使用docker部署wordpress
 category: docker
 tags: [docker]
-description:使用docker部署wordpress
+description: 使用docker部署wordpress
 ---
 
 # docker实践--使用docker部署wordpress
