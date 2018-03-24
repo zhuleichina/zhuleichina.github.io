@@ -1,7 +1,7 @@
 ---
 layout: post
 title: kibana可视化报警插件KAAE的安装与配置
-category: 工具
+category: 日志
 tags: [ELK , KAAE]
 description: 前面我们学习了如何进行ELK的安装与使用，那么我们如何才能实现ELK的邮件告警，本节我们将介绍如何使用kibana的可视化插件KAAE进行邮件告警。
 ---

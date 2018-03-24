@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 基于keepalived的mysql双主高可用系统
-category: 工具
+category: mysql
 tags: [keepalived , mysql]
 description: mysql单节点存储时，系统出现故障时服务不可用、不能及时恢复的问题，因此实际使用时，一般都会使用mysql双机方案，使用keepalived实现mysql双主是较常见的一种双机方案。
 ---
