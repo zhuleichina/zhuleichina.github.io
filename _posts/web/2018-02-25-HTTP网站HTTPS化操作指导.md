@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HTTP网站HTTPS化操作指导
-category: 工具
+category: web服务
 tags: [HTTP , HTTPS]
 description: 最开始接触HTTPS的概念是因为非HTTP网站，在谷歌等浏览下直接标注为不安全，经过HTTPS化之后，浏览器会标注为安全。因此想到需要将网站HTTPS化。本文将从HTTPS基本概念介绍开始，依次介绍证书申请，和如何部署证书到nginx服务器上。
 ---

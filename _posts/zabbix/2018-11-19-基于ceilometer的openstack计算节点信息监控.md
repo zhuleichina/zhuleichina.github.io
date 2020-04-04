@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 基于ceilometer的openstack计算节点信息监控
-category: 工具
+category: 监控
 tags: [openstack, zabbix, 计算节点监控]
 description: 使用ceilometer对计算节点的使用信息进行监控。
 ---

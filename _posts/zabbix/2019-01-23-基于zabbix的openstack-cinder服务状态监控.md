@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 基于zabbix的openstack-cinder服务状态监控
-category: zabbix
+category: 监控
 tags: [openstack, zabbix, 服务监控]
 description: 前面我们讨论了如何使用zabbix自动发现监控openstack nova服务状态，本文使用类似的方法监控openstack cinder服务状态。
 ---

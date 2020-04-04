@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 基于zabbix的openstack-nova服务状态监控
-category: zabbix
+category: 监控
 tags: [openstack, zabbix, 服务监控]
 description: 对于Openstack运维人员来说，需要关注openstack中，计算节点的服务状态，当发现服务异常时，应当及时处理。
 ---

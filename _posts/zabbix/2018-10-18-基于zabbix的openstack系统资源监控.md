@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 基于zabbix的openstack系统资源监控
-category: 工具
+category: 监控
 tags: [openstack, zabbix, 系统资源]
 description: 本文将介绍使用zabbix结合openstack python-api对openstack系统资源进行监控。
 ---

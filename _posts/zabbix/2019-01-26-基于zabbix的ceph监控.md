@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 基于zabbix的ceph监控
-category: zabbix
+category: 监控
 tags: [openstack, zabbix, ceph]
 description: 我们对于ceph的监控需求包括ceph的状态和ceph,osd中in和up的比例，因为比较简单，我们可以自己实现。
 ---

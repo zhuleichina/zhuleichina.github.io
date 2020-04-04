@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 基于ceilometer的openstack虚机资源监控2
-category: 工具
+category: 监控
 tags: [openstack, zabbix, 虚机监控]
 description: 在一些openstack环境中的虚机监控中还存在一定的问题。
 ---

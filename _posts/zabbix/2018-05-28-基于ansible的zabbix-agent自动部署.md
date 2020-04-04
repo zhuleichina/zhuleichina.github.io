@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 基于ansible的zabbix-agent自动部署
-category: 工具
+category: 监控
 tags: [ansible, zabbix]
 description: 当遇到多台机器需要部署zabbix时，就需要使用自动化的方法，本文将介绍使用ansible部署agent。
 ---

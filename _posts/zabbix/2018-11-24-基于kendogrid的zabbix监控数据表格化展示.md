@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 基于kendogrid的zabbix监控数据表格化展示
-category: 工具
+category: 监控
 tags: [kendogrid, zabbix, nginx]
 description: 本文将介绍基于kendogrid的zabbix监控数据表格化展示。
 ---

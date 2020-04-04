@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Linux,限制指定IP用户的ssh登录
-category: 工具
+category: 未分类
 tags: [ssh ,安全]
 description: RedHat、CGSL等Linux系统中，默认是开启ssh允许所有IP进行登录的，对于密码泄漏和互联网攻击等存在很大的危险。
 ---
